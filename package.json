@@ -1,0 +1,24 @@
+{
+  "name": "technical-test-1",
+  "version": "1.0.0",
+  "description": "Proposed solution for the Technical Test #1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josecarlosqs/footbal-rest-api.git"
+  },
+  "author": "José Carlos Quichiz Santome <josec.quichiz@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/josecarlosqs/footbal-rest-api/issues"
+  },
+  "homepage": "https://github.com/josecarlosqs/footbal-rest-api#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
